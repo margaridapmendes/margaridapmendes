@@ -6,4 +6,4 @@
 
 📠 _How?_ margarida.pmendes@student.ie.edu
 
-[<img src="https://raw.githubusercontent.com/174857.png" height="40em" align="center" alt="Follow margaridapmendes on LinkedIn" title="Follow margaridapmendes on LinkedIn"/>](https://linkedin.com/in/margarida-pacheco-mendes)
+[<img src="https://raw.githubusercontent.com/margaridapmendes/margaridapmendes/main/socials/linkedin.jpg" height="40em" align="center" alt="Follow margaridapmendes on LinkedIn" title="Follow margaridapmendes on LinkedIn"/>](https://linkedin.com/in/margarida-pacheco-mendes)
