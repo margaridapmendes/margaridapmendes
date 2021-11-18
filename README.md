@@ -1,7 +1,7 @@
 **Welcome 👋**
 
-🌍 Where? Here, there and everywhere
+🌍 **Where?** Here, there and everywhere
 
-💡 What? Master in Big Data Candidate
+💡 **What?** Master in Big Data Candidate
 
-📠 How? margarida.pmendes@student.ie.edu
+📠 **How?** margarida.pmendes@student.ie.edu
