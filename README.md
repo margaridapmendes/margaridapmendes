@@ -6,4 +6,4 @@
 
 📠 _How?_ margarida.pmendes@student.ie.edu
 
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+        - [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
