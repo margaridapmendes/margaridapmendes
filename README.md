@@ -5,5 +5,4 @@
 💡 _What?_ Master in Big Data Candidate
 
 📠 _How?_ margarida.pmendes@student.ie.edu
-
-        [<img src="https://raw.githubusercontent.com/margaridapmendes/margaridapmendes/174857.png" height="40em" align="center" alt="Follow margaridapmendes on LinkedIn" title="Follow margaridapmendes on LinkedIn"/>](https://linkedin.com/in/margarida-pacheco-mendes)
+[<img src="https://raw.githubusercontent.com/margaridapmendes/174857.png" height="40em" align="center" alt="Follow margaridapmendes on LinkedIn" title="Follow margaridapmendes on LinkedIn"/>](https://linkedin.com/in/margarida-pacheco-mendes)
