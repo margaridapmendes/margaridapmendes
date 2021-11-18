@@ -6,4 +6,4 @@
 
 📠 _How?_ margarida.pmendes@student.ie.edu
 
-        - [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+[<img src="https://raw.githubusercontent.com/margaridapmendes/margaridapmendes/master/socials/linkedin.png" height="40em" align="center" alt="Follow margaridapmendes on LinkedIn" title="Follow margaridapmendes on LinkedIn"/>](https://linkedin.com/in/margarida-pacheco-mendes)
