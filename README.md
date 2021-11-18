@@ -4,6 +4,6 @@
 
 💡 _What?_ Master in Big Data Candidate
 
-📠 _How?_ [email] (margarida.pmendes@student.ie.edu)
+📠 _How?_ margarida.pmendes@student.ie.edu
 
-          [LinkedIn](www.linkedin.com/in/margarida-pacheco-mendes)
+         - :office: [LinkedIn](www.linkedin.com/in/margarida-pacheco-mendes)
